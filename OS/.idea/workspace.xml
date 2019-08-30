@@ -1,0 +1,496 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d2e4ddbb-276b-4db1-a1f9-237ddec1fba6" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Lab4/FileNode.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="399">
+              <caret line="22" selection-start-line="1" selection-end-line="28" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Lab4/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="171">
+              <caret line="9" selection-start-line="9" selection-end-line="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Lab4/DirectoryNode.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Lab4/FileUtility.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="57">
+              <caret line="3" selection-start-line="3" selection-end-line="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>acquire</find>
+      <find>Acquire</find>
+      <find>length</find>
+      <find>4</find>
+      <find>peek</find>
+      <find>show</find>
+      <find>no such</find>
+      <find>FileModel</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/Concurrence/Semaphore.java" />
+        <option value="$PROJECT_DIR$/src/Concurrence/Driver.java" />
+        <option value="$PROJECT_DIR$/src/Concurrence/Semaphore/Driver.java" />
+        <option value="$PROJECT_DIR$/src/Concurrent/Semaphore/Driver.java" />
+        <option value="$PROJECT_DIR$/src/Lab1/ProducerAndCosumer.java" />
+        <option value="$PROJECT_DIR$/src/Lab1/ProducerAndConsumer.java" />
+        <option value="$PROJECT_DIR$/src/Lab1/Producer_Consumer.java" />
+        <option value="$PROJECT_DIR$/src/Lab1/test.java" />
+        <option value="$PROJECT_DIR$/src/Lab1/RoundRobin.java" />
+        <option value="$PROJECT_DIR$/src/Lab3/DynamicAllocation.java" />
+        <option value="$PROJECT_DIR$/src/Lab3/Work.java" />
+        <option value="$PROJECT_DIR$/src/Lab3/Main.java" />
+        <option value="$PROJECT_DIR$/src/Lab3/Zone.java" />
+        <option value="$PROJECT_DIR$/src/Lab3/data.txt" />
+        <option value="$PROJECT_DIR$/src/Lab3/memrun.txt" />
+        <option value="$PROJECT_DIR$/src/Lab3/data_bext.txt" />
+        <option value="$PROJECT_DIR$/src/Lab3/data_next.txt" />
+        <option value="$PROJECT_DIR$/src/Lab3/data_first.txt" />
+        <option value="$PROJECT_DIR$/src/Lab3/Memory.java" />
+        <option value="$PROJECT_DIR$/src/Lab3/Simulation.java" />
+        <option value="$PROJECT_DIR$/src/Lab4/FileList.java" />
+        <option value="$PROJECT_DIR$/src/Lab4/FileListModel.java" />
+        <option value="$PROJECT_DIR$/src/Lab4/FileNodeOperation.java" />
+        <option value="$PROJECT_DIR$/src/Lab4/FileTree.java" />
+        <option value="$PROJECT_DIR$/src/Lab4/FileTreeModel.java" />
+        <option value="$PROJECT_DIR$/src/Lab4/I_Node.java" />
+        <option value="$PROJECT_DIR$/src/Lab4/Event/CopyEvent.java" />
+        <option value="$PROJECT_DIR$/src/Lab4/System.java" />
+        <option value="$PROJECT_DIR$/src/Lab4/FileNode.java" />
+        <option value="$PROJECT_DIR$/src/Lab4/Manager.java" />
+        <option value="$PROJECT_DIR$/src/Lab4/test.java" />
+        <option value="$PROJECT_DIR$/src/Lab3/test.java" />
+        <option value="$PROJECT_DIR$/src/Lab4/EncryptDecrypt.java" />
+        <option value="$PROJECT_DIR$/src/Lab4/MenuMain.java" />
+        <option value="$PROJECT_DIR$/src/Lab4/FileUtility.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="950" />
+    <option name="width" value="980" />
+    <option name="height" value="1040" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="OS" type="b2602c69:ProjectViewProjectNode" />
+              <item name="OS" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="OS" type="b2602c69:ProjectViewProjectNode" />
+              <item name="OS" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="Queue&#9;PSI&#9;JAVA://java.util.Queue&#10;Queu&#9;PSI&#9;JAVA://java.awt.Queue&#10;queue&#9;PSI&#9;JAVA://java.util.Queue&#10;Se&#9;FILE&#9;jar://D:/Java/jdk1.8.0_191/src.zip!/java/util/concurrent/Semaphore.java&#10;Sema&#9;FILE&#9;jar://D:/Java/jdk1.8.0_191/src.zip!/java/util/concurrent/Semaphore.java" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545840712129" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Programming\IdeaProjects\OS\src\Lab4" />
+      <recent name="E:\Programming\IdeaProjects\OS\src\Lab3" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="FileSystem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lab4.FileSystem" />
+      <module name="OS" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lab4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lab4.Main" />
+      <module name="OS" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lab4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MenuMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lab4.MenuMain" />
+      <module name="OS" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lab4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Simulation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lab3.Simulation" />
+      <module name="OS" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lab3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lab4.test" />
+      <module name="OS" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lab4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Simulation" />
+      <item itemvalue="Application.test (1)" />
+      <item itemvalue="Application.FileSystem" />
+      <item itemvalue="Application.MenuMain" />
+      <item itemvalue="Application.Main" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.MenuMain" />
+        <item itemvalue="Application.FileSystem" />
+        <item itemvalue="Application.test (1)" />
+        <item itemvalue="Application.Simulation" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d2e4ddbb-276b-4db1-a1f9-237ddec1fba6" name="Default Changelist" comment="" />
+      <created>1544599622417</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1544599622417</updated>
+      <workItem from="1544599625882" duration="1530000" />
+      <workItem from="1544683663103" duration="4780000" />
+      <workItem from="1544851709863" duration="20444000" />
+      <workItem from="1544877652030" duration="145000" />
+      <workItem from="1544961736159" duration="1029000" />
+      <workItem from="1544970282884" duration="45000" />
+      <workItem from="1545015050792" duration="1101000" />
+      <workItem from="1545019673366" duration="21628000" />
+      <workItem from="1545384955044" duration="14453000" />
+      <workItem from="1545481816735" duration="221000" />
+      <workItem from="1545482102658" duration="1806000" />
+      <workItem from="1545485830899" duration="3891000" />
+      <workItem from="1545698131231" duration="28188000" />
+      <workItem from="1545735745280" duration="104000" />
+      <workItem from="1545789108375" duration="2761000" />
+      <workItem from="1545804662995" duration="1917000" />
+      <workItem from="1545840699601" duration="34000" />
+      <workItem from="1545840945413" duration="5000" />
+      <workItem from="1547428511894" duration="13000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="104095000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1930295" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32956153" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.31683168" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4716714" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32577905" />
+      <window_info anchor="bottom" id="Duplicate detector" order="12" weight="0.32956153" />
+      <window_info anchor="bottom" id="Docker" order="13" show_stripe_button="false" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
+      <window_info anchor="right" id="Maven" order="9" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18230563" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32956153" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.31683168" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4716714" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32577905" />
+      <window_info anchor="bottom" id="Duplicate detector" order="12" weight="0.32956153" />
+      <window_info anchor="bottom" id="Docker" order="13" show_stripe_button="false" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
+      <window_info anchor="right" id="Maven" order="9" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://D:/Java/jdk1.8.0_191/src.zip!/java/util/Queue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="69" column="27" selection-start-line="69" selection-start-column="23" selection-end-line="69" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lab1/test.java" />
+    <entry file="file://$USER_HOME$/Desktop/内存分配/Work.java" />
+    <entry file="file://$USER_HOME$/Desktop/内存分配/Chart.java" />
+    <entry file="file://$USER_HOME$/Desktop/内存分配/DynMemAll.java" />
+    <entry file="file://$PROJECT_DIR$/src/Lab3/DynamicAllocation.java" />
+    <entry file="file://$PROJECT_DIR$/src/Lab3/Work.java" />
+    <entry file="file://$PROJECT_DIR$/../../Java/JavaPractice/src/Assignment/Company.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2166" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lab1/Producer_Consumer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1547">
+          <caret line="8" column="33" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lab3/data.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lab3/data_bext.txt" />
+    <entry file="file://$PROJECT_DIR$/src/Lab3/data_best.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lab3/data_next.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-184" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lab3/data_first.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lab3/Simulation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3249">
+          <caret line="173" selection-start-line="1" selection-end-line="173" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lab3/memrun.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lab3/Zone.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/Filemanger/src/Fileabout/FileList.java" />
+    <entry file="file://$PROJECT_DIR$/src/Lab4/FileList.java" />
+    <entry file="file://$USER_HOME$/Desktop/Filemanger/src/Fileabout/FileListModel.java" />
+    <entry file="file://$PROJECT_DIR$/src/Lab4/FileListModel.java" />
+    <entry file="file://$USER_HOME$/Desktop/Filemanger/src/Fileabout/FileNode.java" />
+    <entry file="file://$USER_HOME$/Desktop/Filemanger/src/Fileabout/FileNodeOperation.java" />
+    <entry file="file://$USER_HOME$/Desktop/Filemanger/src/Fileabout/FileRenderer.java" />
+    <entry file="file://$USER_HOME$/Desktop/Filemanger/src/Fileabout/FileTree.java" />
+    <entry file="file://$PROJECT_DIR$/src/Lab4/FileTreeModel.java" />
+    <entry file="file://$USER_HOME$/Desktop/Filemanger/src/Fileabout/FileTreeModel.java" />
+    <entry file="file://$PROJECT_DIR$/src/Lab4/FileTree.java" />
+    <entry file="file://$USER_HOME$/Desktop/Filemanger/src/Fileabout/I_Node.java" />
+    <entry file="file://$USER_HOME$/Desktop/Filemanger/src/Fileabout/SelectedNode.java" />
+    <entry file="file://$USER_HOME$/Desktop/Filemanger/src/Fileabout/TreeRenderer.java" />
+    <entry file="file://$PROJECT_DIR$/src/Lab4/I_Node.java" />
+    <entry file="file://$PROJECT_DIR$/src/Lab4/Event/CopyEvent.java" />
+    <entry file="file://$PROJECT_DIR$/src/Lab4/Event/NewFileEvent.java" />
+    <entry file="file://$PROJECT_DIR$/src/Lab4/FileNodeOperation.java" />
+    <entry file="file://$PROJECT_DIR$/src/Lab4/System.java" />
+    <entry file="file://$PROJECT_DIR$/src/Lab3/Memory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2888">
+          <caret line="152" column="52" selection-start-line="152" selection-start-column="52" selection-end-line="152" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lab2/RoundRobin.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="class#Process#0;class#RoundRobin#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lab4/test.java" />
+    <entry file="file://$PROJECT_DIR$/src/Lab3/test.java" />
+    <entry file="file://$USER_HOME$/Desktop/FileManagementSystem-master/EncryptDecrypt.java" />
+    <entry file="file://$USER_HOME$/Desktop/FileManagementSystem-master/FileUtility.java" />
+    <entry file="file://$USER_HOME$/Desktop/FileManagementSystem-master/MenuMain.java" />
+    <entry file="file://$PROJECT_DIR$/src/Lab4/EncryptDecrypt.java" />
+    <entry file="file://$PROJECT_DIR$/src/Lab4/Manager.java" />
+    <entry file="file://$PROJECT_DIR$/src/Lab4/FileSystem.java" />
+    <entry file="file://$PROJECT_DIR$/src/Lab4/MenuMain.java" />
+    <entry file="file://$PROJECT_DIR$/src/Lab4/FileNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="22" selection-start-line="1" selection-end-line="28" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lab4/DirectoryNode.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lab4/FileUtility.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lab4/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
